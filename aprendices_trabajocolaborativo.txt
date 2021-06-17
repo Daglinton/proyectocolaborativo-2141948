@@ -1,7 +1,7 @@
  instructor: Daglinton Davila Murillo
  Scrum Master: 
  Aprendices:
-1) daglin132020@gmail.com 
+1) daglin132020@gmail.com --> agreaga tu nombre 
 2) lgonzalez5981@gmail.com
 3) anderson.tobonp@gmail.com
 4) afelipe.castrillon@gmail.com
