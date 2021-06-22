@@ -1,18 +1,25 @@
  instructor: Daglinton Davila Murillo
- Scrum Master: 
+ Scrum Master:Dalinton 
  Aprendices:
-1) daglin132020@gmail.com 
-2) lgonzalez5981@gmail.com
-3) anderson.tobonp@gmail.com
+1) daglin132020@gmail.com -- Daglinton Davila Murillo
+2) lgonzalez5981@gmail.com -- Luis Alberto Gonzalez Ramirez
+3) anderson.tobonp@gmail.com -- Anderson Tobon Pérez
 4) afelipe.castrillon@gmail.com
 5) carlosamrio95@gmail.com
-6) enriquevillap@gmail.com
+6) enriquevillap@gmail.com -- Enrique Villa Pérez
 7) pamazo@misena.edu.co
 8) apmontoya46@misena.edu.co
 9) juanandrescifuentesagudelo@gmail.com
 10) jgrestrepo65@misena.edu.co
-11) Ycpatino0@misena.edu.co
+11) Ycpatino0@misena.edu.co -- Yesika Caterine Patiño Marin
 12) jhon-mosurr@hotmail.com
 13) mandresarpa@gmail.com
 14) jdsalinas524@misena.edu.co
-15) andreshenao1888@gmail.com
+15) andreshenao1888@gmail.com -- Jorge Andres Rojas Henao
+16) arodriguez9988@misena.edu.co Amilkar Rodriguez Marin
+---------------------------
+17) maarroyave50@misena.edu.co
+18)xnelsonvsx@hotmail.com  Nelson varela
+19) jjramirez710@misena.edu.co -- John Jairo Ramirez Alvarez
+
+
